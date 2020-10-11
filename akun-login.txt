@@ -1,0 +1,11 @@
+1. administrator
+username = admin
+password = asdzxc
+
+2. Penilai
+username = penilai
+password = penilai
+
+3. pegawai
+username = sujiman
+username = sujiman
